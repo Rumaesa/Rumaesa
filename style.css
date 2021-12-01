@@ -2,7 +2,7 @@ body{
     background-color: rgb(253, 241, 253);
     margin: 0px;
     padding: 0px;
-    /* border: 2px solid purple; */
+    border: 2px solid purple;
 }
 .photo{
     /* border: 2px solid red; */
